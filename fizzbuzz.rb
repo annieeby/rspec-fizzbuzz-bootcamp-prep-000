@@ -9,3 +9,4 @@ def fizzbuzz(int)
   elsif (int %5 == 0)
     print "Buzz"
 end
+end
